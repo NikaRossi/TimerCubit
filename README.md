@@ -1,6 +1,6 @@
-# flutter_application_5
+# Timer Cubit
 
-A new Flutter project.
+Timer Cubit 
 
 ## Getting Started
 
