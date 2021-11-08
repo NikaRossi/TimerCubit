@@ -2,6 +2,11 @@
 
 Timer Cubit 
 
+Veronika Smantsyreva 2-МДА-7
+Adrian Shyer 2-МДА-7
+Alexander Hlopov 2-МДА-9
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
